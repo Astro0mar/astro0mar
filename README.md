@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning embedded systems & machine learning
+###- 🌱 I’m currently learning embedded systems & machine learning
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about C language
