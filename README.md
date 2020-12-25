@@ -1,4 +1,4 @@
-## Salam Alaikum ,I'm Omar👋
+## As-Salamu-Alaikum ,I'm Omar 👋
 
 
 
