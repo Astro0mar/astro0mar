@@ -2,8 +2,8 @@
 
 
 
-- 🌱 I’m currently learning embedded systems & machine learning
-- 👯 I’m looking to collaborate on open source
+- 📚 I’m currently learning embedded systems & machine learning
+- 📌 I’m looking to collaborate on open source
 - 💬 Ask me about C language
 - 📫 How to reach me: twitter
 
