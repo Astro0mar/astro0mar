@@ -5,7 +5,7 @@
 - 📚 I’m currently learning embedded systems & machine learning
 - 📌 I’m looking to collaborate on open source
 - 💬 Ask me about C language
-- 📫 How to reach me: twitter
+
 
 
 🌌 “If you want something you have never had, you must be willing to do something you have never done.” 💙🚀
