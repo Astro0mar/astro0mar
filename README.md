@@ -1,8 +1,8 @@
-## As-Salamu-Alaikum ,I'm Omar 👋
+## Peace upon you ,I'm Omar 👋
 
 
 
-- 📚 I’m currently learning embedded systems & machine learning
+- 📚 I’m currently learning distributed systems & machine learning
 - 📌 I’m looking to collaborate on open source
 
 
