@@ -3,7 +3,7 @@
 
 
 - 📚 I’m currently learning distributed systems & machine learning
-- 📌 I’m looking to collaborate on open source
+- 📌 I’m looking to become a kubestronaut
 
 
 
